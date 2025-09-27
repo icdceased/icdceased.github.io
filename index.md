@@ -7,6 +7,7 @@ markdown
 - [Нейронаука](articles/neuroscience.md)
 - [Психология](articles/psychology.md) 
 - [Как править статьи](how-to-edit.md)
+- [Обсуждения](discussions.md)
 
 ---
 *Последнее обновление: 27.09.25*
