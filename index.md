@@ -5,7 +5,7 @@ markdown
 
 ## Разделы:
 - [Нейронаука](articles/neuroscience.md)
-- [Психопатология](articles/psychopathology.md) 
+- [Психология](articles/psychology.md) 
 - [Как править статьи](how-to-edit.md)
 
 ---
